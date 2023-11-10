@@ -85,7 +85,7 @@ Install the required packages using:
 | GestureSense.py         | Main application script for Streamlit UI and gesture recognition. |
 | Image_Data/             | Directory containing the dataset of hand gesture images.      |
 | Model/                  | Directory to save the trained SVM model and scaler.           |
-| animation.json          | This is a complete python script in notebook format (.ipynb), which will run on Jyupeter Notebook and contains Loading, Training and Predicting all of them in a single file.                   |
+| Hand_Gestures_Recognisation.ipynb          | This is a complete python script in notebook format (.ipynb), which will run on Jyupeter Notebook and contains Loading, Training and Predicting all of them in a single file.                   |
 | Main_HGR.py              | This python script runs directly on any IDE.                                            |
 | Run App GestureSense.cmd       | An cmd code for running the app with just a double click.                   |
 | Train_SVM_Model.py                 | Python script to Train the SVM model on Image Data                                            |
